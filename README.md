@@ -46,7 +46,9 @@ Package that enables runnig openCL on Intel GT, IvyBridge and up
 ```sh
 sudo apt install beignet-opencl-icd
 ```
+### TextSuggest
 
+https://github.com/bharadwaj-raju/TextSuggest
 
 ## Fixes
 
