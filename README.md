@@ -38,6 +38,16 @@ If your main question is "Should I buy this laptop for using with Linux now?" th
 | HDMI audio output | ⚠️ Not tested |  |
 | Webcam | ✔️ Working |  |
 
+## Install
+
+### OpenCL
+
+Package that enables runnig openCL on Intel GT, IvyBridge and up
+```sh
+sudo apt install beignet-opencl-icd
+```
+
+
 ## Fixes
 
 ### Speaker
