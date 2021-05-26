@@ -72,7 +72,7 @@ You can follow the official installation instructions if you need it for Debian,
 
 Once done, you can finally install Piper by typing the following command (for Ubuntu-based distros):
 
-    ```bash 
+    ```sh 
     sudo apt install piper```
 
 You can get installation instructions for other Linux distributions in their wiki on GitHub.
