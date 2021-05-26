@@ -65,13 +65,15 @@ To get started, you need to ensure that you have libratbag installed. Some Linux
 
 For Ubuntu-based distros, you can type in the following command to install it if you didn’t have it already:
 
-    ```bash sudo apt install ratbagd```
+    ```bash 
+    sudo apt install ratbagd```
 
 You can follow the official installation instructions if you need it for Debian, Arch or Fedora.
 
 Once done, you can finally install Piper by typing the following command (for Ubuntu-based distros):
 
-    ```bash sudo apt install piper```
+    ```bash 
+    sudo apt install piper```
 
 You can get installation instructions for other Linux distributions in their wiki on GitHub.
 
