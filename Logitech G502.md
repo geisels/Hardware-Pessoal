@@ -65,8 +65,9 @@ To get started, you need to ensure that you have libratbag installed. Some Linux
 
 For Ubuntu-based distros, you can type in the following command to install it if you didn’t have it already:
 
-    ```bash 
-    sudo apt install ratbagd```
+    ```
+    sudo apt install ratbagd
+    ```
 
 You can follow the official installation instructions if you need it for Debian, Arch or Fedora.
 
