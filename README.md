@@ -98,6 +98,8 @@ Another solution is to prevent faulty module from being loaded on boot:
 
 ### Power Management issues
 
+https://linrunner.de/tlp/introduction.html
+
 #### S0 (s2idle) power state state battery drain
 
 Our main troubleshooting guide: [How to achieve S0ix states in Linux](https://01.org/blogs/qwang59/2018/how-achieve-s0ix-states-linux)
